@@ -7,7 +7,7 @@
     "theme_color": "#ffffff",
     "icons": [
         {
-            "src": "/libero-app-logo.png",
+            "src": "/libero-d.png",
             "sizes": "192x192 512x512",
             "type": "image/png"
         }
